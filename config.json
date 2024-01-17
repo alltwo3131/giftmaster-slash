@@ -1,23 +1,20 @@
 {
-  "token": "",  
+  "token": "",
   "username": "",
-  "password": "", 
-
+  "password": "",
   "port": "3000",
-  
-  "clientId": "00000000000000000",
-  "guildId": "0000000000000000000",
-
-  "status": "Made By ScienceGear 🔥",
-  "website": "https://youtube.com/ScienceGearYT",
+  "clientId": "1130808446028087420",
+  "guildId": "1184916992453509280",
+  "globalDeploy": false,
+  "status": "discord.gg/hesapbayim",
+  "website": "discord.gg/hesapbayim",
   "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
-  "footer": "Made By ScienceGear 🔥",
-
-  "genChannel": "00000000000000000000",
-  "premiumChannel": "00000000000000000000",
-  "genCooldown": "5",
-  "premiumCooldown": "3",
-
+  "footer": "discord.gg/hesapbayim",
+  "genChannel": "1184928945389441178",
+  "premiumChannel": "1184928951936745582",
+  "genCooldown": "2500",
+  "premiumCooldown": "1500",
+  
   "color": {
     "green": "0x57F287",
     "yellow": "0xFEE75C",

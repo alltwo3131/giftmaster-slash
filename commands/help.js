@@ -23,8 +23,6 @@ module.exports = {
 			})
 			.setFooter(interaction.user.tag, interaction.user.displayAvatarURL({ dynamic: true, size: 64 }))
 			.setTimestamp()
-			.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](https://dsc.gg/sciencegear)`);
-
 		await interaction.reply({ embeds: [commandListEmbed] });
 	},
 };
